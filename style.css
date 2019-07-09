@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: #eeeeee;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+#shape {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    display: none;
+    position: relative;
+}
